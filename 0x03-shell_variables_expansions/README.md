@@ -1,1 +1,1 @@
-echo "hello world"
+shell script that creates a global variable
