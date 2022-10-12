@@ -1,0 +1,2 @@
+#!/bin/bash
+:wqecho $((1209 + $TRUEKNOWLEDGE))
